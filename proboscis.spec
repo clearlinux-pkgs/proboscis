@@ -4,7 +4,7 @@
 #
 Name     : proboscis
 Version  : 1.2.6.0
-Release  : 13
+Release  : 14
 URL      : https://pypi.python.org/packages/source/p/proboscis/proboscis-1.2.6.0.tar.gz
 Source0  : https://pypi.python.org/packages/source/p/proboscis/proboscis-1.2.6.0.tar.gz
 Summary  : Extends Nose with certain TestNG like features.
